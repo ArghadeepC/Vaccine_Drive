@@ -1,0 +1,121 @@
+body
+{
+  margin:50px;
+  margin-top: 0;
+}
+.container
+{
+  position: absolute;
+  background-image: linear-gradient(orange,white);
+  width: 1000px;
+  height:900px;
+  left:250px;
+  margin-top: 0;
+  border-style: solid ;
+  border-color: inherit;
+}
+.top
+{
+  height: auto;
+  background-image: linear-gradient(#B7F2C4,aqua);
+  text-align: center;
+  font-size: 50px;
+  border-bottom-left-radius: 150px;
+  border-bottom-right-radius: 150px;
+  padding: 50px;
+  text-shadow: 0 5px 5px blue;
+}
+.syr1
+{
+  position: absolute;
+  left:70px;
+  top: 20px;
+}
+.syr2
+{
+  position: absolute;
+  right: 70px;
+  top: 20px;
+}
+.middle
+{
+  margin:50px;
+  margin-top:30px;
+}
+.name1
+{
+  font-size: 30px;
+  font-family:  "calibri";
+}
+.name2
+{
+  margin:5px 30px;
+  height: 30px;
+  width: 500px;
+  background-image: linear-gradient(#C0F2C9,#EBECF7);
+}
+.vac
+{
+  font-size: 30px;
+  font-family:  "calibri";
+}
+.vac2
+{
+  margin:5px 30px;
+  height: 30px;
+  width: 500px;
+  background-image: linear-gradient(#C0F2C9,#EBECF7);
+}
+.mno
+{
+  font-size: 30px;
+  font-family:  "calibri";
+}
+.mnu
+{
+  margin:5px 30px;
+  height: 30px;
+  width: 500px;
+  background-image: linear-gradient(#C0F2C9,#EBECF7);
+}
+.vname
+{
+  font-size: 30px;
+  font-family:  "calibri";
+}
+.cova
+{
+  font-size: 20px;
+  background-image: linear-gradient(#C0F2C9,#EBECF7);
+}
+.cov
+{
+  font-size: 20px;
+  background-image: linear-gradient(#C0F2C9,#EBECF7);
+}
+.spu
+{
+  font-size: 20px;
+  background-image: linear-gradient(#C0F2C9,#EBECF7);
+}
+.file1
+{
+  font-size: 30px;
+  font-family:  "calibri";
+}
+.file2
+{
+  margin:5px 30px;
+  height: 50px;
+  width: 500px;
+}
+.sub
+{
+  margin:5px 30px;
+  height: 30px;
+  width: 90px;
+  background-image: linear-gradient(#C0F2C9,#EBECF7);
+  position: absolute;
+  left:65px;
+  cursor: pointer;
+}
